@@ -3,24 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <title>DrinkIn</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div>
-        <h1>DRINKIN</h1>
-        <form action="/search" method="get" class="search-form">
-            <input type="text" name="query" placeholder="Search for a beer, style or brewery">
-            <button type="submit">SEARCH</button>
-        </form>
-        
-        <!--We enabling the Theme toggle Button-->
-        <button id="toggleTheme">Dark/Light</button>
-
-        <!--Displaying Beer Images for Upvote-->
-        <div id="beerImages">
-            <!-- The beer images will be dynamically loaded here when a search is performed -->
+    <div class="container">
+        <div class="header">
+            <h1>DRINKIN</h1>
+            <form action="/search" method="get" class="search-form">
+                <div class="search-container">
+                    <input type="text" name="query" placeholder="Search for a beer, style or brewery">
+                    <button type="submit">SEARCH</button>
+                </div>
+            </form>
         </div>
+        
+       
+        
+        
+
+        
 
         <!-- Search Results will be shown here -->
         <div id="searchResults"></div>
