@@ -6,7 +6,7 @@
         "style": "Lager",
         "brewery": "EABL",
         "abv": 4.2,
-        "image": "images/tusker.webp",
+        "image": "images/tusker1.jpg",
         "averageRating": 0,
         "reviews": []
       },
@@ -16,7 +16,7 @@
         "style": "Stout",
         "brewery": "Guinness Brewery",
         "abv": 4.2,
-        "image": "images/guiness.webp",
+        "image": "images/guinness-1.jpg",
         "averageRating": 0,
         "reviews": []
       },
@@ -26,7 +26,7 @@
         "style": "Lager",
         "brewery": "EABL",
         "abv": 4.5,
-        "image": "images/White-Cap.jpg",
+        "image": "images/whitecap.webp",
         "averageRating": 0,
         "reviews": []
       },
@@ -56,7 +56,7 @@
         "style": "Flavored AB",
         "brewery": "Heineken N.V",
         "abv": 5.9,
-        "image": "images/desperados.webp",
+        "image": "images/desparado.jpeg",
         "averageRating": 0,
         "reviews": []
       }

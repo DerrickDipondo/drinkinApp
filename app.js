@@ -1,7 +1,9 @@
-
-        <button id="toggleTheme">Dark/Light</button>
-
-        <!--Displaying Beer Images for Upvote-->
-        <div id="beerImages">
-            <!-- The beer images will be dynamically loaded here when a search is performed -->
-        </div>
+// Fetch JSON data
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error loading JSON file', error);
+  })
