@@ -1,0 +1,65 @@
+{
+    "beers": [
+      {
+        "id": 1,
+        "name": "Tusker",
+        "style": "Lager",
+        "brewery": "EABL",
+        "abv": 4.2,
+        "image": "images/tusker.webp",
+        "averageRating": 0,
+        "reviews": []
+      },
+      {
+        "id": 2,
+        "name": "Guinness",
+        "style": "Stout",
+        "brewery": "Guinness Brewery",
+        "abv": 4.2,
+        "image": "images/guiness.webp",
+        "averageRating": 0,
+        "reviews": []
+      },
+      {
+        "id": 3,
+        "name": "White Cap",
+        "style": "Lager",
+        "brewery": "EABL",
+        "abv": 4.5,
+        "image": "images/White-Cap.jpg",
+        "averageRating": 0,
+        "reviews": []
+      },
+      {
+        "id": 4,
+        "name": "Smirnoff Ice Guarana",
+        "style": "Flavored AB",
+        "brewery": "Smirnoff",
+        "abv": 5,
+        "image": "images/smirnoff-ice-guarana.webp",
+        "averageRating": 0,
+        "reviews": []
+      },
+      {
+        "id": 5,
+        "name": "Heineken",
+        "style": "Lager",
+        "brewery": "Heineken N.V",
+        "abv": 5.0,
+        "image": "images/Heineken.jpg",
+        "averageRating": 0,
+        "reviews": []
+      },
+      {
+        "id": 6,
+        "name": "Desperados",
+        "style": "Flavored AB",
+        "brewery": "Heineken N.V",
+        "abv": 5.9,
+        "image": "images/desperados.webp",
+        "averageRating": 0,
+        "reviews": []
+      }
+    ]
+  }
+  
