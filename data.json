@@ -6,9 +6,9 @@
         "style": "Lager",
         "brewery": "EABL",
         "abv": 4.2,
-        "image": "images/tusker1.jpg",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/tusker1.jpg"
+        
+
       },
       {
         "id": 2,
@@ -16,9 +16,8 @@
         "style": "Stout",
         "brewery": "Guinness Brewery",
         "abv": 4.2,
-        "image": "images/guinness-1.jpg",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/guinness-1.jpg"
+        
       },
       {
         "id": 3,
@@ -26,9 +25,8 @@
         "style": "Lager",
         "brewery": "EABL",
         "abv": 4.5,
-        "image": "images/whitecap.webp",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/whitecap.webp"
+        
       },
       {
         "id": 4,
@@ -36,9 +34,8 @@
         "style": "Flavored AB",
         "brewery": "Smirnoff",
         "abv": 5,
-        "image": "images/smirnoff-ice-guarana.webp",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/smirnoff-ice-guarana.webp"
+        
       },
       {
         "id": 5,
@@ -46,9 +43,8 @@
         "style": "Lager",
         "brewery": "Heineken N.V",
         "abv": 5.0,
-        "image": "images/heineken.jpg",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/heineken.jpg"
+        
       },
       {
         "id": 6,
@@ -56,9 +52,8 @@
         "style": "Flavored AB",
         "brewery": "Heineken N.v",
         "abv": 5.9,
-        "image": "images/desparado.jpeg",
-        "averageRating": 0,
-        "reviews": []
+        "image": "images/desparado.jpeg"
+        
       }
     ]
   }
