@@ -46,7 +46,7 @@
         "style": "Lager",
         "brewery": "Heineken N.V",
         "abv": 5.0,
-        "image": "images/Heineken.jpg",
+        "image": "images/heineken.jpg",
         "averageRating": 0,
         "reviews": []
       },
@@ -54,7 +54,7 @@
         "id": 6,
         "name": "Desperados",
         "style": "Flavored AB",
-        "brewery": "Heineken N.V",
+        "brewery": "Heineken N.v",
         "abv": 5.9,
         "image": "images/desparado.jpeg",
         "averageRating": 0,

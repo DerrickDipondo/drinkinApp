@@ -11,22 +11,16 @@
     <div class="container">
         <div class="header">
             <h1>DRINKIN</h1>
-            <form action="/search" method="get" class="search-form">
+            <form id="search-form" action="/search" method="get" class="search-form">
                 <div class="search-container">
                     <input type="text" name="query" placeholder="Search for a beer, style or brewery">
                     <button type="submit">SEARCH</button>
                 </div>
             </form>
         </div>
-        
-       
-        
-        
+        <div id="results" class="results-container">
 
-        
-
-        <!-- Search Results will be shown here -->
-        <div id="searchResults"></div>
+        </div>
     </div>
 
     <script src="app.js"></script>
